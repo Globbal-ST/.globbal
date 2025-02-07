@@ -1,0 +1,2 @@
+# .globbal
+Globbal ST Corp.
